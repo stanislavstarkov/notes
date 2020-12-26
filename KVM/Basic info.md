@@ -3,9 +3,7 @@
 
 ```bash
 egrep -c '(vmx|svm)' /proc/cpuinfo
-```
-output:
-
+```  
 ```
 16
 ```
