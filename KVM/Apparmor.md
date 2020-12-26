@@ -9,7 +9,7 @@ root@nas-1:~# cat /etc/apparmor.d/local/abstractions/libvirt-qemu
 
 File permission access modes consist of combinations of the following modes:
 | attr | description |
-|---|---|
+| --- | --- |
 | r | Read mode |
 | w | Write mode (mutually exclusive to a) |
 | a | Append mode (mutually exclusive to w) |
