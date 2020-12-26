@@ -12,6 +12,8 @@ Redact `/etc/default/grub`
 
 ```
 root@nas-1:~# cat /etc/default/grub
+```
+```
 
 # If you change this file, run 'update-grub' afterwards to update
 
