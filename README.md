@@ -1,2 +1,2 @@
 # notes
-Repo for the notes I tired of losing
+Repo for the notes I am tired of losing
