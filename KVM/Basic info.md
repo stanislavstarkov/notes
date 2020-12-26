@@ -1,4 +1,3 @@
-[[_TOC_]]  
 >The best source of info: https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF
 ###### Check virtualization support
 
